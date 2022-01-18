@@ -1,0 +1,4 @@
+API requirements.
+
+1. Registre user on maling list . 
+2. E-mail user with bonus .
