@@ -1,4 +1,5 @@
-import { UserData } from './UserData'
+import { UserData } from "./UserData"
+
 
 describe('Register user on maling list user case', () => {
   test('should add user with complete data to maling list', async () => {
